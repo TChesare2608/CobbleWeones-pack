@@ -1,8 +1,8 @@
 name = "resourcepacks/soundtrack.zip"
-filename = "view"
+filename = "uc"
 side = "both"
 
 [download]
-url = "https://drive.google.com/file/d/10itXq3zbyPR2Re74W201iwsUHXFm6Byh/view?usp=drive_link"
+url = "https://drive.google.com/uc?export=download&id=10itXq3zbyPR2Re74W201iwsUHXFm6Byh"
 hash-format = "sha256"
-hash = "96dd636ddf6a32b5f06b22298d19b1a7b1c3f32dd9bb50163e482d7185757dfe"
+hash = "539b0ba406b2bc333ec358eb2650ea26fb329da570d67d5ba99f8125e6ce1783"

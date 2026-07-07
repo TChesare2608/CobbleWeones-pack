@@ -1145,10 +1145,6 @@ file = "mods/Searchables-fabric-1.21.1-1.0.2.jar"
 hash = "0b58a40a41db4a4af4ef84475b0ea330be3b18fdcac2eca68ede46d9f4df3d76"
 
 [[files]]
-file = "mods/Sin confirmar 249390.crdownload"
-hash = "c25fee08e90ed8d28d2a0051f892bae28e1d6d8522c523131bd7dcbef9bcd0a8"
-
-[[files]]
 file = "mods/StackDeobfuscatorFabric-1.4.3+08e71cc.jar"
 hash = "335627367b8212c17e58978866874ede8d0d9a159053fbb38e56123fff83d0f9"
 
@@ -1578,6 +1574,10 @@ hash = "9d0b2c07a123f4a7643c946a30ef4fb5a23fa762735376200c1b9e797652b895"
 [[files]]
 file = "mods/waystones-fabric-1.21.1-21.1.29.jar"
 hash = "f08e2e630c567d1a082c5f8fadee61af0922e811aa4f05881618e02af0a87991"
+
+[[files]]
+file = "mods/wild_battle_api-fabric-1.1.2.jar"
+hash = "c25fee08e90ed8d28d2a0051f892bae28e1d6d8522c523131bd7dcbef9bcd0a8"
 
 [[files]]
 file = "mods/xaerominimap-fabric-1.21.1-25.3.10.jar"

@@ -5,6 +5,10 @@ file = ".nojekyll"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "actualizar.bat"
+hash = "7fa0b65de8edc6d8e8db87794548bcba857487476693e02b63b6710d197243ed"
+
+[[files]]
 file = "config/CobbleSpawnAlertReforged/CONFIG_COMMENTS_EN.txt"
 hash = "2f3bac8b03526439d4ddbb54787b80eb0bfbf7227dd6793a3ba15d33962a7062"
 
@@ -1033,6 +1037,10 @@ file = "mods/CobbleSpawnAlertReforged-2.8.0.jar"
 hash = "1b92e536fe5a99f5a708df7397e80f986d2eadfda03caff6dd4a80956cfbbefe"
 
 [[files]]
+file = "mods/CobblemonTrialsEdition-fabric-1.3.1.jar"
+hash = "35f066a454f5a269fddada938883f2be047622e6ccaaa5fcc823b0a8c98e57fe"
+
+[[files]]
 file = "mods/CobbleverseBadges-1.3.jar"
 hash = "d215d075d4ae80a4ed5e20cb5caf442bb3f3607d2a41dc134ebad035f6a8da77"
 
@@ -1240,6 +1248,10 @@ hash = "70d87e48f8fd9bcf2f649bbecce5ed7dba642bf49a0131a38bae7fcad713aff2"
 file = "mods/cobblemon.pw.toml"
 hash = "6413f6c6bef7abc5a808a54111f093a17daf4471e89d8535840f2a24966bdcd4"
 metafile = true
+
+[[files]]
+file = "mods/cobblemon_battle_tower-fabric-1.10.22.jar"
+hash = "043ee6625cfdb796ee3c0d4210428fb2b93151d38a9fc97a1478488eb1f86f95"
 
 [[files]]
 file = "mods/cobblemonalphas-1.4.1.jar"
@@ -1460,6 +1472,10 @@ file = "mods/pokeblocks-1.4.0-1.21.1.jar"
 hash = "c113f9e61a7bef35c3bacc57651a7508f3f07c20218b51eade31766899f1176d"
 
 [[files]]
+file = "mods/punchy-2.6.1-fabric-1.21.1.jar"
+hash = "c4bd0680e6a9f78686a0472847e51aa669e8ab9947a18b2c46e65576aaa4b1da"
+
+[[files]]
 file = "mods/rctapi-fabric-1.21.1-0.15.0-beta.jar"
 hash = "65adeb9355b6bea23ddfe2cbdfdbd0af3072e8cb3ec5ba3e6fef176ad6475cc7"
 
@@ -1656,8 +1672,16 @@ file = "resourcepacks/Lotus Megas V2.zip"
 hash = "68f97270748ea0061e9675624688b65c219675bdf3000b73d354de1852638cbd"
 
 [[files]]
+file = "resourcepacks/Watercolour Cobblemon.zip"
+hash = "92251b107f79a2a914bba43ea968a2b107176f4784983b011d8555a200b20091"
+
+[[files]]
 file = "resourcepacks/XaerosCobblemon-3.0.4_stars+1.7.0.zip"
 hash = "0dc4a6d107da965c89362a37e1303a4c64bf824f377a880fc14934c664dbddc9"
+
+[[files]]
+file = "resourcepacks/[Chilli´s] punchy! cobblemon.zip"
+hash = "d79f5856bc843537e46b448998b37307365005b42ff3ff3768f7dae0069c4a4f"
 
 [[files]]
 file = "resourcepacks/resourcepacks-soundtrack-zip.pw.toml"

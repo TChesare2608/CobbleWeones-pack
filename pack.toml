@@ -1,13 +1,13 @@
 name = "CobbleWeones"
-author = "Chesare"
+author = "TChesare"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3f4efec3d335e36ecc8ec24a8bd3a5f204fcd589732a66362d8fb8f19cfd98c0"
+hash = "b8e20e65c09c3ce1b938d193e48bdf230d83f961d5c6f101ff2134639d0019d9"
 
 [versions]
-fabric = "0.19.3"
+fabric = "0.18.4"
 minecraft = "1.21.1"

@@ -1,8 +1,8 @@
 name = "resourcepacks/soundtrack.zip"
-filename = "uc"
+filename = "z2gbxx.zip"
 side = "both"
 
 [download]
-url = "https://drive.google.com/uc?export=download&id=10itXq3zbyPR2Re74W201iwsUHXFm6Byh"
+url = "https://files.catbox.moe/z2gbxx.zip"
 hash-format = "sha256"
-hash = "539b0ba406b2bc333ec358eb2650ea26fb329da570d67d5ba99f8125e6ce1783"
+hash = "d6f8f26668d440792b0b2f54931052f98c7a2dc6967202a1c2b0fe80da5bf46e"

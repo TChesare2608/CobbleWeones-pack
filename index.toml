@@ -1479,11 +1479,6 @@ file = "mods/resourcefullib-fabric-1.21-3.0.12.jar"
 hash = "93064c5aff85bf5e6385470f311fd1c7de172f58b02fefb1d2920db76f8cd8b5"
 
 [[files]]
-file = "resourcepacks/resourcepacks-soundtrack-zip.pw.toml"
-hash = "f0d2baa1bc0531d73f0a4aba1726d5ee678d24d9f0d0fbd35992ae03ead1bc05"
-metafile = true
-
-[[files]]
 file = "mods/respackopts-4.11.3.jar"
 hash = "1c3634a90548c839cb9e78409d346d712b1af73be839fa7c7ad59428b6398dea"
 
@@ -1654,3 +1649,8 @@ hash = "68f97270748ea0061e9675624688b65c219675bdf3000b73d354de1852638cbd"
 [[files]]
 file = "resourcepacks/XaerosCobblemon-3.0.4_stars+1.7.0.zip"
 hash = "0dc4a6d107da965c89362a37e1303a4c64bf824f377a880fc14934c664dbddc9"
+
+[[files]]
+file = "resourcepacks/resourcepacks-soundtrack-zip.pw.toml"
+hash = "f0d2baa1bc0531d73f0a4aba1726d5ee678d24d9f0d0fbd35992ae03ead1bc05"
+metafile = true

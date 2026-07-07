@@ -6,7 +6,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "actualizar.bat"
-hash = "7fa0b65de8edc6d8e8db87794548bcba857487476693e02b63b6710d197243ed"
+hash = "6399a1ed21b1797ad319d41b66ea5d529c153664c949c17aed997b028997b627"
 
 [[files]]
 file = "config/CobbleSpawnAlertReforged/CONFIG_COMMENTS_EN.txt"
@@ -1143,6 +1143,10 @@ hash = "f32ed8d825c7af90b14ab9f7bbe1293818bcf411fea104ae20d18ecde30f8387"
 [[files]]
 file = "mods/Searchables-fabric-1.21.1-1.0.2.jar"
 hash = "0b58a40a41db4a4af4ef84475b0ea330be3b18fdcac2eca68ede46d9f4df3d76"
+
+[[files]]
+file = "mods/Sin confirmar 249390.crdownload"
+hash = "c25fee08e90ed8d28d2a0051f892bae28e1d6d8522c523131bd7dcbef9bcd0a8"
 
 [[files]]
 file = "mods/StackDeobfuscatorFabric-1.4.3+08e71cc.jar"

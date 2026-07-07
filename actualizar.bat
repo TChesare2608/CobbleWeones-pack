@@ -1,24 +1,18 @@
 @echo off
-echo Iniciando proceso de actualizacion...
+echo [DESARROLLO] Refrescando pack...
 call packwiz refresh
 
-echo.
-echo ==================================================
-echo Archivos detectados para subir:
-echo ==================================================
-:: Esto te mostrará la lista de lo que cambió
-git status
-
-echo.
-echo ¿Quieres proceder con el commit y subir los cambios?
-pause
-
+echo [DESARROLLO] Subiendo cambios a GitHub...
 git add .
-git commit -m "Auto-actualizacion: Nuevos cambios"
+git commit -m "Actualizacion de modpack desde desarrollo"
 git push origin main
 
-echo.
+echo [DESARROLLO] Enviando orden de actualizacion al servidor...
+:: Si el servidor esta en la misma PC por ahora, solo llamamos al otro bat.
+:: En el futuro, aqui pondras: ssh usuario@ip-servidor "C:\Ruta\servidor\actualizar_srv.bat"
+call "C:\Users\Chesa\OneDrive\Desktop\SELVELPOLQUEMON\actualizarsv.bat"
+
 echo ==================================================
-echo ¡Cambios subidos a GitHub!
+echo ¡Todo sincronizado!
 echo ==================================================
 pause

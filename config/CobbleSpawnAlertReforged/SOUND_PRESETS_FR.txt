@@ -1,0 +1,46 @@
+CSAR - SOUND PRESETS (FR)
+
+Petite liste de presets sonores recommandés pour les alertes personnalisées.
+Vous pouvez copier directement les sound ids dans les champs customSound.
+
+==================================================
+DISCRETS
+==================================================
+
+Orbe d'expérience
+minecraft:entity.experience_orb.pickup
+
+Carillon d'améthyste
+minecraft:block.amethyst_block.chime
+
+==================================================
+MOYENS
+==================================================
+
+Cloche
+minecraft:block.bell.use
+
+Niveau gagné
+minecraft:entity.player.levelup
+
+Balise activée
+minecraft:block.beacon.activate
+
+==================================================
+FORTS
+==================================================
+
+Apparition du Wither
+minecraft:entity.wither.spawn
+
+Rugissement de l'Ender Dragon
+minecraft:entity.ender_dragon.growl
+
+==================================================
+NOTES
+==================================================
+
+- Laisser customSound vide permet de retomber sur le son par défaut.
+- Pour les Pokémon spécifiques, vide = hérite du comportement normal / défaut.
+- Cette liste est volontairement courte pour rester lisible et utile.
+- Vous pouvez toujours saisir manuellement un autre sound id Minecraft si besoin.

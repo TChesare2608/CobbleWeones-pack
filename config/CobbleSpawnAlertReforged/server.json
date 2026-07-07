@@ -1,0 +1,97 @@
+{
+  "configVersion": "2.6.1",
+  "teleport": {
+    "enabled": true,
+    "sameDimensionOnly": true,
+    "requireChunkLoaded": true,
+    "maxClickableAgeSeconds": 120,
+    "requireSpawnAlive": true,
+    "coordsTeleport": {
+      "mode": "SAFE_NEARBY",
+      "safeRadius": 8,
+      "safeMaxAttempts": 32
+    },
+    "fallbackTeleport": {
+      "distanceMin": 2,
+      "distanceMax": 6,
+      "safeMaxAttempts": 32
+    },
+    "airSafety": {
+      "enabled": true,
+      "applySlowFallingIfDropGreaterThan": 5,
+      "slowFallingSeconds": 20,
+      "fallCheckDepth": 32,
+      "removeSlowFallingOnGround": true
+    },
+    "antiSpam": {
+      "oneRequestAtATime": true,
+      "oneTeleportPerSpawnMessagePerPlayer": true,
+      "countPerButton": false,
+      "cooldownSeconds": 15,
+      "denyMessage": true,
+      "denyMessageCooldownSeconds": 2
+    },
+    "unloadedTargetBehavior": "TP_TO_MESSAGE_PLAYER",
+    "permissions": {
+      "permissionMode": "OP_LEVEL",
+      "requiredOpLevel": 2,
+      "requiredRole": "trusted"
+    }
+  },
+  "commands": {
+    "enabled": true,
+    "adminOpLevel": 2
+  },
+  "massOutbreaks": {
+    "enabled": false,
+    "dedupeCooldownSeconds": 15,
+    "soundEnabled": true,
+    "sound": "minecraft:block.amethyst_block.chime",
+    "soundVolume": 1.0,
+    "soundPitch": 1.0,
+    "announceToAllPlayers": true,
+    "sameDimensionOnly": false,
+    "allowClassicSpawnAlerts": false,
+    "chat": {
+      "enabled": true,
+      "showCoordinates": true,
+      "showDimension": true,
+      "showBiome": true,
+      "showNearestPlayer": true
+    },
+    "discord": {
+      "enabled": true,
+      "showCoordinates": true,
+      "showDimension": true,
+      "showBiome": true,
+      "showNearestPlayer": true
+    }
+  },
+  "cobbleSafari": {
+    "portalAlertsEnabled": true,
+    "portalSoundEnabled": true,
+    "portalSound": "minecraft:block.portal.trigger",
+    "portalSoundVolume": 1.0,
+    "portalSoundPitch": 1.0,
+    "announceToAllPlayers": false,
+    "sameDimensionOnly": true,
+    "showDestination": true,
+    "showNearestPlayer": true,
+    "showPosition": true,
+    "showWorld": true,
+    "showRemainingTime": true
+  },
+  "raidDens": {
+    "enabled": true,
+    "announceRaidDenSpawn": true,
+    "announceRaidPokemonCapture": true,
+    "announceRaidVictory": false,
+    "suppressRaidBossDespawnMessage": true,
+    "soundEnabled": true,
+    "sound": "minecraft:block.amethyst_block.chime",
+    "soundVolume": 0.8,
+    "soundPitch": 1.0,
+    "announceToAllPlayers": true,
+    "sameDimensionOnly": false
+  }
+}

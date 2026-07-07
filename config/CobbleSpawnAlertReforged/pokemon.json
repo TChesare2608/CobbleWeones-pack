@@ -1,0 +1,10 @@
+{
+  "configVersion": "2.1.0",
+  "default": {
+    "alwaysAlert": false,
+    "customSound": "",
+    "customMessage": ""
+  },
+  "specific": {
+  }
+}

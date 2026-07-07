@@ -1,0 +1,46 @@
+CSAR - SOUND PRESETS (EN)
+
+Small list of recommended sound presets for custom alerts.
+You can directly copy these sound ids into customSound fields.
+
+==================================================
+SUBTLE
+==================================================
+
+Experience Orb Pickup
+minecraft:entity.experience_orb.pickup
+
+Amethyst Chime
+minecraft:block.amethyst_block.chime
+
+==================================================
+MEDIUM
+==================================================
+
+Bell
+minecraft:block.bell.use
+
+Level Up
+minecraft:entity.player.levelup
+
+Beacon Activate
+minecraft:block.beacon.activate
+
+==================================================
+STRONG
+==================================================
+
+Wither Spawn
+minecraft:entity.wither.spawn
+
+Ender Dragon Growl
+minecraft:entity.ender_dragon.growl
+
+==================================================
+NOTES
+==================================================
+
+- Leaving customSound empty falls back to the default sound behavior.
+- For specific Pokémon entries, empty means inherit the normal / default behavior.
+- This list is intentionally short to stay readable and useful.
+- You can still manually type any other Minecraft sound id if needed.

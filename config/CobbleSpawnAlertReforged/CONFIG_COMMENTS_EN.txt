@@ -1,0 +1,79 @@
+==================================================
+CobbleSpawnAlert Reforged - Config Comments
+==================================================
+
+[main]
+
+pokemonInfoUi
+- Client UI settings for Pokemon spawn alerts.
+
+mode
+- LEGACY_ONLY : current alert only
+- UI_ONLY     : simplified alert + UI
+- HYBRID      : current alert + UI
+
+renderMode
+- SPRITE_2D : 2D image
+- MODEL_3D  : 3D model render
+
+anchor
+- Possible values:
+  - TOP_LEFT
+  - MIDDLE_LEFT
+  - BOTTOM_RIGHT
+
+alert
+- sameDimensionOnly: only sends classic Pokémon spawn/capture/despawn alerts to players in the same dimension as the Pokémon. This does not control teleport restrictions.
+
+messages
+- showWorldLoadChatMessage: displays or hides the join/world-load chat message with help, next update and useful links.
+
+
+
+sounds
+- volume: global volume for classic Pokémon alert sounds.
+- pitch: global pitch for classic Pokémon alert sounds.
+
+
+[server]
+
+server.json now keeps server gameplay settings only.
+Discord webhook settings were moved to webhooks.json.
+
+
+[webhooks]
+
+discord.enabled
+- Enables or disables all Discord webhooks globally.
+
+discord.defaultWebhookUrl
+- Main fallback webhook URL.
+- Used when a specific alert webhook URL is empty.
+
+spawnAlerts / captureAlerts / outbreakAlerts / safariAlerts
+- enabled: enables or disables this webhook category.
+- webhookUrl: optional dedicated webhook URL for this category.
+- If webhookUrl is empty, CSAR falls back to defaultWebhookUrl.
+
+nameDisplayMode
+- EN_ONLY   : English only
+- FR_ONLY   : French only
+- EN_AND_FR : English then French
+- FR_AND_EN : French then English
+
+allowClassicSpawnAlerts: Allows Pokémon spawned by Mass Outbreak waves to also trigger normal CSAR spawn alerts. Warning: can cause heavy chat/webhook flood.
+
+Raid Dens compatibility (2.6.1)
+--------------------------------
+raidDens.enabled: Enables optional Cobblemon Raid Dens compatibility when the mod is installed.
+raidDens.announceRaidDenSpawn: Sends a CSAR chat message and Raid Dens webhook when a Raid Den appears, with Pokémon, level, difficulty, position, nearest player and remaining time.
+raidDens.announceRaidPokemonCapture: Sends a CSAR chat message when a player claims/captures the raid Pokémon reward.
+raidDens.announceRaidVictory: Sends a CSAR chat message when a raid is won. Disabled by default to avoid duplicates if Raid Dens already announces victory.
+raidDens.suppressRaidBossDespawnMessage: Prevents CSAR from showing a misleading Pokémon despawn message for raid bosses.
+raidDens.soundEnabled: Plays a sound when a Raid Dens announcement is sent.
+raidDens.sound: Sound id used for Raid Dens announcements.
+raidDens.soundVolume: Server-side Raid Dens sound volume.
+raidDens.soundPitch: Server-side Raid Dens sound pitch.
+raidDens.announceToAllPlayers: Sends Raid Dens messages to all players instead of only the involved player.
+raidDens.sameDimensionOnly: When announceToAllPlayers is enabled, only players in the same dimension receive the message.
+webhooks.discord.raidDensAlerts: Optional Discord webhook target for Raid Dens appearance/capture/victory announcements. Uses defaultWebhookUrl if its own URL is empty.

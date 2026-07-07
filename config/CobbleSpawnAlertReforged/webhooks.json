@@ -1,0 +1,36 @@
+{
+  "configVersion": "2.6.1",
+  "discord": {
+    "enabled": false,
+    "defaultWebhookUrl": "",
+    "spawnAlerts": {
+      "enabled": true,
+      "webhookUrl": ""
+    },
+    "captureAlerts": {
+      "enabled": true,
+      "webhookUrl": ""
+    },
+    "outbreakAlerts": {
+      "enabled": true,
+      "webhookUrl": ""
+    },
+    "safariAlerts": {
+      "enabled": true,
+      "webhookUrl": ""
+    },
+    "username": "CobbleSpawnAlert",
+    "avatarUrl": "",
+    "serverName": "Cobblemon Server",
+    "footerText": "CobbleSpawnAlert Reforged",
+    "useEmbeds": true,
+    "useThumbnail": true,
+    "nameDisplayMode": "EN_ONLY",
+    "fullBilingualLayout": false,
+    "thumbnailUrlTemplate": "https://img.pokemondb.net/sprites/home/{variant}/{species}.png",
+    "raidDensAlerts": {
+      "enabled": true,
+      "webhookUrl": ""
+    }
+  }
+}

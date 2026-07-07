@@ -1,0 +1,79 @@
+==================================================
+CobbleSpawnAlert Reforged - Commentaires Config
+==================================================
+
+[main]
+
+pokemonInfoUi
+- Paramètres de l'interface client pour les alertes de spawn Pokémon.
+
+mode
+- LEGACY_ONLY : alerte actuelle uniquement
+- UI_ONLY     : alerte simplifiée + interface
+- HYBRID      : alerte actuelle + interface
+
+renderMode
+- SPRITE_2D : image 2D
+- MODEL_3D  : rendu 3D
+
+anchor
+- Valeurs possibles :
+  - TOP_LEFT
+  - MIDDLE_LEFT
+  - BOTTOM_RIGHT
+
+alert
+- sameDimensionOnly : envoie les alertes Pokémon classiques de spawn/capture/despawn uniquement aux joueurs dans la même dimension que le Pokémon. Ne contrôle pas les restrictions de téléportation.
+
+messages
+- showWorldLoadChatMessage : affiche ou masque le message de connexion/chargement du monde avec l'aide, la prochaine maj et les liens utiles.
+
+
+
+sons
+- volume : volume global des sons des alertes Pokémon classiques.
+- pitch : hauteur globale des sons des alertes Pokémon classiques.
+
+
+[server]
+
+server.json garde maintenant uniquement les réglages serveur liés au gameplay.
+Les réglages Discord webhook ont été déplacés dans webhooks.json.
+
+
+[webhooks]
+
+discord.enabled
+- Active ou désactive tous les webhooks Discord globalement.
+
+discord.defaultWebhookUrl
+- URL webhook principale utilisée en fallback.
+- Utilisée quand une catégorie n'a pas d'URL dédiée.
+
+spawnAlerts / captureAlerts / outbreakAlerts / safariAlerts
+- enabled : active ou désactive cette catégorie de webhook.
+- webhookUrl : URL webhook dédiée optionnelle pour cette catégorie.
+- Si webhookUrl est vide, CSAR utilise defaultWebhookUrl.
+
+nameDisplayMode
+- EN_ONLY   : anglais uniquement
+- FR_ONLY   : français uniquement
+- EN_AND_FR : anglais puis français
+- FR_AND_EN : français puis anglais
+
+allowClassicSpawnAlerts : autorise les Pokémon générés par les vagues de Mass Outbreak à déclencher aussi les alertes classiques CSAR. Attention : peut créer beaucoup de messages chat/webhook.
+
+Compatibilité Raid Dens (2.6.1)
+--------------------------------
+raidDens.enabled : active la compatibilité optionnelle Cobblemon Raid Dens lorsque le mod est installé.
+raidDens.announceRaidDenSpawn : envoie un message CSAR et un webhook Raid Dens quand un Raid Den apparaît, avec Pokémon, niveau, difficulté, position, joueur proche et temps restant.
+raidDens.announceRaidPokemonCapture : envoie un message CSAR quand un joueur récupère/capture le Pokémon de récompense du raid.
+raidDens.announceRaidVictory : envoie un message CSAR quand un raid est gagné. Désactivé par défaut pour éviter les doublons si Raid Dens annonce déjà la victoire.
+raidDens.suppressRaidBossDespawnMessage : évite le faux message CSAR indiquant qu’un Pokémon de raid a disparu.
+raidDens.soundEnabled : joue un son quand une annonce Raid Dens est envoyée.
+raidDens.sound : identifiant du son utilisé pour les annonces Raid Dens.
+raidDens.soundVolume : volume serveur du son Raid Dens.
+raidDens.soundPitch : pitch serveur du son Raid Dens.
+raidDens.announceToAllPlayers : envoie les messages Raid Dens à tous les joueurs au lieu du joueur concerné seulement.
+raidDens.sameDimensionOnly : si announceToAllPlayers est activé, limite le message aux joueurs dans la même dimension.
+webhooks.discord.raidDensAlerts : webhook Discord optionnel pour les annonces Raid Dens. Utilise defaultWebhookUrl si son URL dédiée est vide.

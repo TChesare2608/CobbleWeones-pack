@@ -1,0 +1,103 @@
+{
+  "configVersion": "2.8.0",
+  "alert": {
+    "enabled": true,
+    "alertShiny": true,
+    "alertRadiant": true,
+    "alertAlpha": true,
+    "alertLegendary": true,
+    "alertMythical": true,
+    "alertUltraBeast": true,
+    "alertParadox": true,
+    "alertStarter": false,
+    "despawnMessagesEnabled": true,
+    "levelFilter": {
+      "enabled": false,
+      "minLevel": 1,
+      "maxLevel": 100
+    },
+    "sameDimensionOnly": true,
+    "ignoreNonNaturalSpawns": false
+  },
+  "display": {
+    "showCategory": true,
+    "showAlpha": true,
+    "showShiny": true,
+    "showRadiant": true,
+    "showLevel": true,
+    "showNearestPlayer": true,
+    "showCoordinates": true,
+    "showBiome": true,
+    "additionalPokemonInfo": {
+      "ivs": true,
+      "evYield": false,
+      "nature": true,
+      "ability": true,
+      "gender": true
+    }
+  },
+  "sounds": {
+    "enabled": true,
+    "default": "minecraft:entity.ender_dragon.growl",
+    "alpha": "minecraft:entity.wither.spawn",
+    "shiny": "minecraft:entity.ender_dragon.growl",
+    "radiant": "minecraft:entity.ender_dragon.growl",
+    "legendary": "minecraft:entity.ender_dragon.growl",
+    "mythical": "minecraft:entity.ender_dragon.growl",
+    "ultraBeast": "minecraft:entity.ender_dragon.growl",
+    "paradox": "minecraft:entity.ender_dragon.growl",
+    "starter": "minecraft:entity.ender_dragon.growl",
+    "volume": 1.0,
+    "pitch": 1.0
+  },
+  "pokemonClick": {
+    "enabled": true,
+    "urlTemplate": "https://www.cobbledex.info/mon/{species}"
+  },
+  "gg": {
+    "enabled": true,
+    "maxPerPlayer": 2,
+    "commandTemplate": "/say GG {captor} !"
+  },
+  "glow": {
+    "enabled": true,
+    "alphaColor": "red",
+    "radiantColor": "light_purple",
+    "shinyColor": "yellow",
+    "legendaryColor": "gold",
+    "mythicalColor": "white",
+    "ultraBeastColor": "dark_purple",
+    "paradoxColor": "dark_red",
+    "starterColor": "aqua",
+    "defaultColor": "gray"
+  },
+  "antiSpam": {
+    "enabled": true,
+    "cooldownSeconds": 10
+  },
+  "messages": {
+    "showWorldLoadChatMessage": true
+  },
+  "pokemonInfoUi": {
+    "mode": "LEGACY_ONLY",
+    "renderMode": "MODEL_3D",
+    "showImage": true,
+    "showCategory": true,
+    "showVariant": true,
+    "showLevel": true,
+    "showBiome": true,
+    "showNearestPlayer": true,
+    "showCoordinates": true,
+    "showIvs": true,
+    "showIvTotal": true,
+    "showEvYield": true,
+    "showNature": true,
+    "showAbility": true,
+    "showGender": true,
+    "showGlowButton": true,
+    "showTeleportPlayerButton": true,
+    "showTeleportCoordsButton": true,
+    "showDexButton": true,
+    "anchor": "MIDDLE_LEFT"
+  }
+}

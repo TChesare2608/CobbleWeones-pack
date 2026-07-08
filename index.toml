@@ -26,7 +26,7 @@ hash = "7c1bb7f31958999997619047bf2559fd3110d67b4b203bd1d629e4496b8373f2"
 
 [[files]]
 file = "config/CobbleSpawnAlertReforged/main.json"
-hash = "3f61fa1a7b4f81ada07dd2009670deb8f1e29a1814a2dc2c58e7046da241789a"
+hash = "c9eba06ac46c532c056b145c6e2ff8f821ad088f7d58d61c0a93889c667612bb"
 
 [[files]]
 file = "config/CobbleSpawnAlertReforged/pokemon.json"
@@ -1360,6 +1360,10 @@ file = "mods/huge-structure-blocks-fabric-1.1.6.jar"
 hash = "759071bd7b1db4367f232db35872ce6a30e8adee57a8543d0967d0b39b37819d"
 
 [[files]]
+file = "mods/images.jpeg"
+hash = "aef658364b07fba7212b9c335955775551c10cd98f16cea314adbbcd28767a78"
+
+[[files]]
 file = "mods/infinite-music-0.4.6.jar"
 hash = "f90123fa679e170163f976819c851fc4bd6840d19cf95dde3ff8fe3682eed343"
 
@@ -1613,7 +1617,7 @@ hash = "2cec17def69ce520b07fab67eea8c51a94a410a981d50ca4673e463453530e7b"
 
 [[files]]
 file = "resourcepacks/COBBLEVERSE RP [CF].zip"
-hash = "26786b01f6fc90d5894a7b0628695d5dc72cbc561fd7ad3ee20a48d8f2e962c9"
+hash = "5081ec2027d2f9c8e118d95dbdc9e42c96e487a16427a71a907b7539277009bc"
 
 [[files]]
 file = "resourcepacks/COBBLEVERSE-CCC.zip"
@@ -1677,7 +1681,7 @@ hash = "68f97270748ea0061e9675624688b65c219675bdf3000b73d354de1852638cbd"
 
 [[files]]
 file = "resourcepacks/Watercolour Cobblemon.zip"
-hash = "92251b107f79a2a914bba43ea968a2b107176f4784983b011d8555a200b20091"
+hash = "b54cc649d33f1d2e3bfeadb16e9f2dab10a69361a41c7e557a31be0f540d4e6e"
 
 [[files]]
 file = "resourcepacks/XaerosCobblemon-3.0.4_stars+1.7.0.zip"

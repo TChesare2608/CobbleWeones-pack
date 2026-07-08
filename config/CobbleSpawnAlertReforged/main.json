@@ -39,8 +39,8 @@
   "sounds": {
     "enabled": true,
     "default": "minecraft:entity.ender_dragon.growl",
-    "alpha": "minecraft:entity.wither.spawn",
-    "shiny": "minecraft:entity.ender_dragon.growl",
+    "alpha": "cobbleverse:alerta_alfa",
+    "shiny": "cobbleverse:alerta_shiny",
     "radiant": "minecraft:entity.ender_dragon.growl",
     "legendary": "minecraft:entity.ender_dragon.growl",
     "mythical": "minecraft:entity.ender_dragon.growl",

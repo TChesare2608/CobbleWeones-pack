@@ -1,7 +1,7 @@
 {
 	"useExperimentalCaching": false,
 	"clientOptions": {
-		"equipControl": "DISABLED",
+		"equipControl": "MUST_NOT_CROUCH",
 		"forceNullRenderReplacement": false,
 		"disableEmptySlotScreenError": false,
 		"showCosmeticAccessories": true,
@@ -19,9 +19,9 @@
 			"x": 96,
 			"y": 6
 		},
-		"isDarkMode": true,
+		"isDarkMode": false,
 		"showEquippedStackSlotType": true,
-		"entityLooksAtMouseCursor": true,
+		"entityLooksAtMouseCursor": false,
 		"allowSideBarCraftingGrid": true,
 		"showGroupTabs": true,
 		"hoveredOptions": {

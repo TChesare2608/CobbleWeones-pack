@@ -1,0 +1,2868 @@
+{
+  "defaultTier": "common",
+  "defaultQuest": {
+    "itemCosts": [],
+    "scores": [],
+    "economyCosts": [],
+    "tags": [],
+    "teams": []
+  },
+  "skins": {
+    "cafe_arctozolt": {
+      "displayName": "Cafe Arctozolt",
+      "description": "A cozy cafe outfit tailored for Arctozolt.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:blue_ice",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_braixen": {
+      "displayName": "Cafe Braixen",
+      "description": "A cozy cafe outfit tailored for Braixen.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:blaze_powder",
+            "count": 6
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_chikorita": {
+      "displayName": "Cafe Chikorita",
+      "description": "A cozy cafe outfit tailored for Chikorita.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:wheat",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_cleffa": {
+      "displayName": "Cafe Cleffa",
+      "description": "A cozy cafe outfit tailored for Cleffa.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:glow_berries",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_cutiefly": {
+      "displayName": "Cafe Cutiefly",
+      "description": "A cozy cafe outfit tailored for Cutiefly.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:honey_bottle",
+            "count": 4
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_cyndaquil": {
+      "displayName": "Cafe Cyndaquil",
+      "description": "A cozy cafe outfit tailored for Cyndaquil.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:coal",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_dedenne": {
+      "displayName": "Cafe Dedenne",
+      "description": "A cozy cafe outfit tailored for Dedenne.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:copper_ingot",
+            "count": 12
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_delphox": {
+      "displayName": "Cafe Delphox",
+      "description": "A refined cafe outfit tailored for Delphox.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:blaze_rod",
+            "count": 4
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_dracozolt": {
+      "displayName": "Cafe Dracozolt",
+      "description": "A cozy cafe outfit tailored for Dracozolt.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:redstone",
+            "count": 24
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_dragonite": {
+      "displayName": "Cafe Dragonite",
+      "description": "A premium cafe outfit tailored for Dragonite.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:emerald",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_eevee": {
+      "displayName": "Cafe Eevee",
+      "description": "A cozy cafe outfit tailored for Eevee.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:gold_nugget",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_fennekin": {
+      "displayName": "Cafe Fennekin",
+      "description": "A cozy cafe outfit tailored for Fennekin.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:sweet_berries",
+            "count": 12
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_floragato": {
+      "displayName": "Cafe Floragato",
+      "description": "A cozy cafe outfit tailored for Floragato.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:emerald",
+            "count": 4
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_flygon": {
+      "displayName": "Cafe Flygon",
+      "description": "A desert cafe outfit tailored for Flygon.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:sandstone",
+            "count": 32
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_fuecoco": {
+      "displayName": "Cafe Fuecoco",
+      "description": "A cozy cafe outfit tailored for Fuecoco.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:baked_potato",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_gogoat": {
+      "displayName": "Cafe Gogoat",
+      "description": "A cozy cafe outfit tailored for Gogoat.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:hay_block",
+            "count": 4
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_inteleon": {
+      "displayName": "Cafe Inteleon",
+      "description": "A sleek cafe outfit tailored for Inteleon.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:spyglass",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_kirlia": {
+      "displayName": "Cafe Kirlia",
+      "description": "A cozy cafe outfit tailored for Kirlia.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:amethyst_shard",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_lilligant": {
+      "displayName": "Cafe Lilligant",
+      "description": "A floral cafe outfit tailored for Lilligant.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:spore_blossom",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_litten": {
+      "displayName": "Cafe Litten",
+      "description": "A cozy cafe outfit tailored for Litten.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:cookie",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_mawile": {
+      "displayName": "Cafe Mawile",
+      "description": "A cozy cafe outfit tailored for Mawile.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:iron_ingot",
+            "count": 12
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_meowscarada": {
+      "displayName": "Cafe Meowscarada",
+      "description": "A stylish cafe outfit tailored for Meowscarada.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:emerald",
+            "count": 6
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_milotic": {
+      "displayName": "Cafe Milotic",
+      "description": "An elegant cafe outfit tailored for Milotic.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:prismarine_crystals",
+            "count": 12
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_minccino": {
+      "displayName": "Cafe Minccino",
+      "description": "A tidy cafe outfit tailored for Minccino.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:string",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_noibat": {
+      "displayName": "Cafe Noibat",
+      "description": "A cozy cafe outfit tailored for Noibat.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:echo_shard",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_quilava": {
+      "displayName": "Cafe Quilava",
+      "description": "A cozy cafe outfit tailored for Quilava.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:charcoal",
+            "count": 12
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_rowlet": {
+      "displayName": "Cafe Rowlet",
+      "description": "A cozy cafe outfit tailored for Rowlet.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:feather",
+            "count": 12
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_salamence": {
+      "displayName": "Cafe Salamence",
+      "description": "A premium cafe outfit tailored for Salamence.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:diamond",
+            "count": 4
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_serperior": {
+      "displayName": "Cafe Serperior",
+      "description": "A refined cafe outfit tailored for Serperior.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:vine",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_slurpuff": {
+      "displayName": "Cafe Slurpuff",
+      "description": "A sweet cafe outfit tailored for Slurpuff.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:cake",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_snivy": {
+      "displayName": "Cafe Snivy",
+      "description": "A cozy cafe outfit tailored for Snivy.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:vine",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_spheal": {
+      "displayName": "Cafe Spheal",
+      "description": "A cozy cafe outfit tailored for Spheal.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:snowball",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_sprigatito": {
+      "displayName": "Cafe Sprigatito",
+      "description": "A cozy cafe outfit tailored for Sprigatito.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:wheat_seeds",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_swirlix": {
+      "displayName": "Cafe Swirlix",
+      "description": "A sweet cafe outfit tailored for Swirlix.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:sugar",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_sylveon": {
+      "displayName": "Cafe Sylveon",
+      "description": "A charming cafe outfit tailored for Sylveon.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:pink_dye",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_trapinch": {
+      "displayName": "Cafe Trapinch",
+      "description": "A cozy cafe outfit tailored for Trapinch.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:sand",
+            "count": 32
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_tropius": {
+      "displayName": "Cafe Tropius",
+      "description": "A tropical cafe outfit tailored for Tropius.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:melon",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_umbreon": {
+      "displayName": "Cafe Umbreon",
+      "description": "A moonlit cafe outfit tailored for Umbreon.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:ender_pearl",
+            "count": 4
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_vibrava": {
+      "displayName": "Cafe Vibrava",
+      "description": "A cozy cafe outfit tailored for Vibrava.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:green_dye",
+            "count": 12
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_vulpix_kanto": {
+      "displayName": "Cafe Vulpix",
+      "description": "A cozy cafe outfit tailored for Kanto Vulpix.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:sweet_berries",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_whimsicott": {
+      "displayName": "Cafe Whimsicott",
+      "description": "A soft cafe outfit tailored for Whimsicott.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:white_wool",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "festive_deino": {
+      "displayName": "Festive Deino",
+      "description": "A festive seasonal look for Deino.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:gold_nugget",
+            "count": 24
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "festive_latias": {
+      "displayName": "Festive Latias",
+      "description": "A festive seasonal look for Latias.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:gold_ingot",
+            "count": 12
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "festive_latios": {
+      "displayName": "Festive Latios",
+      "description": "A festive seasonal look for Latios.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:gold_ingot",
+            "count": 12
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "festive_marill": {
+      "displayName": "Festive Marill",
+      "description": "A festive seasonal look for Marill.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:gold_nugget",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "kimono_mew": {
+      "displayName": "Kimono Mew",
+      "description": "An elegant kimono style for Mew.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:amethyst_shard",
+            "count": 24
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "lunar_rayquaza": {
+      "displayName": "Lunar Rayquaza",
+      "description": "A moonlit celebration outfit for Rayquaza.",
+      "tier": "legendary",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:nether_star",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "lunar_scolipede": {
+      "displayName": "Lunar Scolipede",
+      "description": "A moonlit celebration outfit for Scolipede.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:gold_ingot",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "lunar_zebstrika": {
+      "displayName": "Lunar Zebstrika",
+      "description": "A moonlit celebration outfit for Zebstrika.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:gold_ingot",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "popstar_espeon": {
+      "displayName": "Popstar Espeon",
+      "description": "A bright stage outfit for Espeon.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:jukebox",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "popstar_flareon": {
+      "displayName": "Popstar Flareon",
+      "description": "A bright stage outfit for Flareon.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:jukebox",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "popstar_glaceon": {
+      "displayName": "Popstar Glaceon",
+      "description": "A bright stage outfit for Glaceon.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:jukebox",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "popstar_jolteon": {
+      "displayName": "Popstar Jolteon",
+      "description": "A bright stage outfit for Jolteon.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:jukebox",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "popstar_leafeon": {
+      "displayName": "Popstar Leafeon",
+      "description": "A bright stage outfit for Leafeon.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:jukebox",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe": {
+      "displayName": "Cafe Fire Cat",
+      "description": "A cafe uniform for the Litten line.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:red_wool",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_uniform": {
+      "displayName": "Cafe Uniform Incineroar",
+      "description": "A cafe uniform tailored for Incineroar.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:red_wool",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "champion": {
+      "displayName": "Champion Fire Cat",
+      "description": "A champion look for the Litten line.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:gold_nugget",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "mystery_dungeon_blue": {
+      "displayName": "Blue Mystery Dungeon Fire Cat",
+      "description": "A blue dungeon explorer look for the Litten line.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:blue_wool",
+            "count": 12
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "mystery_dungeon_green": {
+      "displayName": "Green Mystery Dungeon Fire Cat",
+      "description": "A green dungeon explorer look for the Litten line.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:green_wool",
+            "count": 12
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "astronaut": {
+      "displayName": "Astronaut Incineroar",
+      "description": "A space suit built for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:firework_rocket",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "band": {
+      "displayName": "Band Incineroar",
+      "description": "A stage-ready band outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:note_block",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "bionicle": {
+      "displayName": "Bionicle Incineroar",
+      "description": "A mechanical armor style for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:blaze_rod",
+            "count": 6
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "construction": {
+      "displayName": "Construction Incineroar",
+      "description": "A construction outfit for Incineroar.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:iron_ingot",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "dancer": {
+      "displayName": "Dancer Incineroar",
+      "description": "A dancer outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:jukebox",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "detective": {
+      "displayName": "Detective Incineroar",
+      "description": "A detective outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:spyglass",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "el_brave": {
+      "displayName": "El Brave Incineroar",
+      "description": "A heroic wrestling outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:red_dye",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "fortnite": {
+      "displayName": "Fortnite Incineroar",
+      "description": "A battle royale outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:emerald",
+            "count": 6
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "pirate": {
+      "displayName": "Pirate Incineroar",
+      "description": "A pirate outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:spyglass",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "rivalsofaether": {
+      "displayName": "Rivals of Aether Incineroar",
+      "description": "A crossover-inspired look for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:torch",
+            "count": 32
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "royal_mask": {
+      "displayName": "Royal Mask Incineroar",
+      "description": "A masked royal wrestling look for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:black_dye",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "santa": {
+      "displayName": "Santa Incineroar",
+      "description": "A festive winter outfit for Incineroar.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:snowball",
+            "count": 32
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "summer": {
+      "displayName": "Summer Incineroar",
+      "description": "A sunny summer outfit for Incineroar.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:melon_slice",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "tekken": {
+      "displayName": "Tekken Incineroar",
+      "description": "A martial tournament outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:scaffolding",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "tmnt": {
+      "displayName": "TMNT Incineroar",
+      "description": "A turtle-inspired hero outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:turtle_helmet",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "ace_pride": {
+      "displayName": "Ace Pride Incineroar",
+      "description": "An ace pride outfit for Incineroar.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:purple_banner",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "bi_pride": {
+      "displayName": "Bi Pride Incineroar",
+      "description": "A bi pride outfit for Incineroar.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:pink_banner",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "gay_pride": {
+      "displayName": "Pride Incineroar",
+      "description": "A pride outfit for Incineroar.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:red_banner",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "pan_pride": {
+      "displayName": "Pan Pride Incineroar",
+      "description": "A pan pride outfit for Incineroar.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:yellow_banner",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "trans_pride": {
+      "displayName": "Trans Pride Incineroar",
+      "description": "A trans pride outfit for Incineroar.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:cyan_banner",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "team_magma": {
+      "displayName": "Team Magma Incineroar",
+      "description": "A Team Magma outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:magma_block",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "team_magma_oras": {
+      "displayName": "Team Magma ORAS Incineroar",
+      "description": "An ORAS Team Magma outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:magma_cream",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "team_rainbow_anime": {
+      "displayName": "Anime Team Rocket Incineroar",
+      "description": "An anime Team Rocket outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:black_banner",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "team_rainbow_rocket": {
+      "displayName": "Rainbow Rocket Incineroar",
+      "description": "A Rainbow Rocket outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:ender_pearl",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "team_rocket": {
+      "displayName": "Team Rocket Incineroar",
+      "description": "A Team Rocket outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:tnt",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "team_skull": {
+      "displayName": "Team Skull Incineroar",
+      "description": "A Team Skull outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:skeleton_skull",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_uniform_litten": {
+      "displayName": "Cafe Uniform Litten",
+      "description": "A cafe uniform tailored for Litten.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:red_wool",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_uniform_litten_shiny": {
+      "displayName": "Shiny Cafe Uniform Litten",
+      "description": "A cafe uniform tailored for shiny Litten.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:red_wool",
+            "count": 12
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_torracat": {
+      "displayName": "Cafe Torracat",
+      "description": "A cafe uniform tailored for Torracat.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:red_wool",
+            "count": 10
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_torracat_shiny": {
+      "displayName": "Shiny Cafe Torracat",
+      "description": "A cafe uniform tailored for shiny Torracat.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:red_wool",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_incineroar": {
+      "displayName": "Cafe Incineroar",
+      "description": "A cafe uniform tailored for Incineroar.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:red_wool",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "cafe_incineroar_shiny": {
+      "displayName": "Shiny Cafe Incineroar",
+      "description": "A cafe uniform tailored for shiny Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:red_wool",
+            "count": 24
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "champion_litten": {
+      "displayName": "Champion Litten",
+      "description": "A champion look for Litten.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:gold_nugget",
+            "count": 12
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "champion_litten_shiny": {
+      "displayName": "Shiny Champion Litten",
+      "description": "A champion look for shiny Litten.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:gold_ingot",
+            "count": 2
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "champion_torracat": {
+      "displayName": "Champion Torracat",
+      "description": "A champion look for Torracat.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:gold_nugget",
+            "count": 18
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "champion_torracat_shiny": {
+      "displayName": "Shiny Champion Torracat",
+      "description": "A champion look for shiny Torracat.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:gold_ingot",
+            "count": 3
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "champion_incineroar": {
+      "displayName": "Champion Incineroar",
+      "description": "A champion look for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:gold_ingot",
+            "count": 4
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "champion_incineroar_shiny": {
+      "displayName": "Shiny Champion Incineroar",
+      "description": "A champion look for shiny Incineroar.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:gold_ingot",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "mystery_dungeon_litten": {
+      "displayName": "Mystery Dungeon Litten",
+      "description": "A dungeon explorer look for Litten.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:blue_wool",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "mystery_dungeon_litten_blue_shiny": {
+      "displayName": "Shiny Blue Mystery Dungeon Litten",
+      "description": "A blue dungeon explorer look for shiny Litten.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:blue_wool",
+            "count": 12
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "mystery_dungeon_litten_green_shiny": {
+      "displayName": "Shiny Green Mystery Dungeon Litten",
+      "description": "A green dungeon explorer look for shiny Litten.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:green_wool",
+            "count": 12
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "mystery_dungeon_torracat": {
+      "displayName": "Mystery Dungeon Torracat",
+      "description": "A dungeon explorer look for Torracat.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:green_wool",
+            "count": 10
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "mystery_dungeon_torracat_blue_shiny": {
+      "displayName": "Shiny Blue Mystery Dungeon Torracat",
+      "description": "A blue dungeon explorer look for shiny Torracat.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:blue_wool",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "mystery_dungeon_torracat_green_shiny": {
+      "displayName": "Shiny Green Mystery Dungeon Torracat",
+      "description": "A green dungeon explorer look for shiny Torracat.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:green_wool",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "mystery_dungeon_incineroar": {
+      "displayName": "Mystery Dungeon Incineroar",
+      "description": "A dungeon explorer look for Incineroar.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:green_wool",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "mystery_dungeon_incineroar_blue_shiny": {
+      "displayName": "Shiny Blue Mystery Dungeon Incineroar",
+      "description": "A blue dungeon explorer look for shiny Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:blue_wool",
+            "count": 24
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "mystery_dungeon_incineroar_green_shiny": {
+      "displayName": "Shiny Green Mystery Dungeon Incineroar",
+      "description": "A green dungeon explorer look for shiny Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:green_wool",
+            "count": 24
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "astronaut_incineroar": {
+      "displayName": "Astronaut Incineroar",
+      "description": "A space suit built for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:firework_rocket",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "astronaut_incineroar_shiny": {
+      "displayName": "Shiny Astronaut Incineroar",
+      "description": "A space suit built for shiny Incineroar.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:firework_rocket",
+            "count": 32
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "band_incineroar": {
+      "displayName": "Band Incineroar",
+      "description": "A stage-ready band outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:note_block",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "band_incineroar_shiny": {
+      "displayName": "Shiny Band Incineroar",
+      "description": "A stage-ready band outfit for shiny Incineroar.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:jukebox",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "bionicle_incineroar": {
+      "displayName": "Bionicle Incineroar",
+      "description": "A mechanical armor style for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:blaze_rod",
+            "count": 6
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "bionicle_incineroar_shiny": {
+      "displayName": "Shiny Bionicle Incineroar",
+      "description": "A mechanical armor style for shiny Incineroar.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:blaze_rod",
+            "count": 12
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "construction_incineroar": {
+      "displayName": "Construction Incineroar",
+      "description": "A construction outfit for Incineroar.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:iron_ingot",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "construction_incineroar_shiny": {
+      "displayName": "Shiny Construction Incineroar",
+      "description": "A construction outfit for shiny Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:iron_ingot",
+            "count": 32
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "detective_incineroar": {
+      "displayName": "Detective Incineroar",
+      "description": "A detective outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:spyglass",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "detective_incineroar_shiny": {
+      "displayName": "Shiny Detective Incineroar",
+      "description": "A detective outfit for shiny Incineroar.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:spyglass",
+            "count": 2
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "el_brave_incineroar": {
+      "displayName": "El Brave Incineroar",
+      "description": "A heroic wrestling outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:red_dye",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "el_brave_incineroar_shiny": {
+      "displayName": "Shiny El Brave Incineroar",
+      "description": "A heroic wrestling outfit for shiny Incineroar.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:red_dye",
+            "count": 32
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "incineroar_fortnite": {
+      "displayName": "Fortnite Incineroar",
+      "description": "A battle royale outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:emerald",
+            "count": 6
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "incineroar_fortnite_shiny": {
+      "displayName": "Shiny Fortnite Incineroar",
+      "description": "A battle royale outfit for shiny Incineroar.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:emerald",
+            "count": 12
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "pirate_incineroar": {
+      "displayName": "Pirate Incineroar",
+      "description": "A pirate outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:spyglass",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "pirate_incineroar_shiny": {
+      "displayName": "Shiny Pirate Incineroar",
+      "description": "A pirate outfit for shiny Incineroar.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:gold_ingot",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "rivals_of_aether_incineroar": {
+      "displayName": "Rivals of Aether Incineroar",
+      "description": "A crossover-inspired look for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:torch",
+            "count": 32
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "rivals_of_aether_incineroar_shiny": {
+      "displayName": "Shiny Rivals of Aether Incineroar",
+      "description": "A crossover-inspired look for shiny Incineroar.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:torch",
+            "count": 64
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "royal_mask_incineroar": {
+      "displayName": "Royal Mask Incineroar",
+      "description": "A masked royal wrestling look for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:black_dye",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "royal_mask_incineroar_shiny": {
+      "displayName": "Shiny Royal Mask Incineroar",
+      "description": "A masked royal wrestling look for shiny Incineroar.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:black_dye",
+            "count": 32
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "santa_incineroar": {
+      "displayName": "Santa Incineroar",
+      "description": "A festive winter outfit for Incineroar.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:snowball",
+            "count": 32
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "santa_incineroar_shiny": {
+      "displayName": "Shiny Santa Incineroar",
+      "description": "A festive winter outfit for shiny Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:snow_block",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "summer_incineroar": {
+      "displayName": "Summer Incineroar",
+      "description": "A sunny summer outfit for Incineroar.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:melon_slice",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "summer_incineroar_shiny": {
+      "displayName": "Shiny Summer Incineroar",
+      "description": "A sunny summer outfit for shiny Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:melon",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "tekken_incineroar": {
+      "displayName": "Tekken Incineroar",
+      "description": "A martial tournament outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:scaffolding",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "tekken_incineroar_shiny": {
+      "displayName": "Shiny Tekken Incineroar",
+      "description": "A martial tournament outfit for shiny Incineroar.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:scaffolding",
+            "count": 32
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "tmnt_incineroar": {
+      "displayName": "TMNT Incineroar",
+      "description": "A turtle-inspired hero outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:turtle_scute",
+            "count": 4
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "tmnt_incineroar_shiny": {
+      "displayName": "Shiny TMNT Incineroar",
+      "description": "A turtle-inspired hero outfit for shiny Incineroar.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:turtle_helmet",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "zootopia_dancer_incineroar": {
+      "displayName": "Dancer Incineroar",
+      "description": "A dancer outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:jukebox",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "zootopia_dancer_incineroar_shiny": {
+      "displayName": "Shiny Dancer Incineroar",
+      "description": "A dancer outfit for shiny Incineroar.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:jukebox",
+            "count": 2
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "pride_incineroar": {
+      "displayName": "Pride Incineroar",
+      "description": "A pride outfit for Incineroar.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:red_banner",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "pride_incineroar_shiny": {
+      "displayName": "Shiny Pride Incineroar",
+      "description": "A pride outfit for shiny Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:red_banner",
+            "count": 2
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "pride_incineroar_ace": {
+      "displayName": "Ace Pride Incineroar",
+      "description": "An ace pride outfit for Incineroar.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:purple_banner",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "pride_incineroar_ace_shiny": {
+      "displayName": "Shiny Ace Pride Incineroar",
+      "description": "An ace pride outfit for shiny Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:purple_banner",
+            "count": 2
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "pride_incineroar_bi_shiny": {
+      "displayName": "Shiny Bi Pride Incineroar",
+      "description": "A bi pride outfit for shiny Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:pink_banner",
+            "count": 2
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "pride_incineroar_pan_shiny": {
+      "displayName": "Shiny Pan Pride Incineroar",
+      "description": "A pan pride outfit for shiny Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:yellow_banner",
+            "count": 2
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "pride_incineroar_trans": {
+      "displayName": "Trans Pride Incineroar",
+      "description": "A trans pride outfit for Incineroar.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:cyan_banner",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "pride_incineroar_trans_shiny": {
+      "displayName": "Shiny Trans Pride Incineroar",
+      "description": "A trans pride outfit for shiny Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:cyan_banner",
+            "count": 2
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "team_magma_incineroar": {
+      "displayName": "Team Magma Incineroar",
+      "description": "A Team Magma outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:magma_block",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "team_magma_incineroar_shiny": {
+      "displayName": "Shiny Team Magma Incineroar",
+      "description": "A Team Magma outfit for shiny Incineroar.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:magma_block",
+            "count": 32
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "team_oras_magma_incineroar": {
+      "displayName": "Team Magma ORAS Incineroar",
+      "description": "An ORAS Team Magma outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:magma_cream",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "team_oras_magma_incineroar_shiny": {
+      "displayName": "Shiny Team Magma ORAS Incineroar",
+      "description": "An ORAS Team Magma outfit for shiny Incineroar.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:magma_cream",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "team_rocket_incineroar": {
+      "displayName": "Team Rocket Incineroar",
+      "description": "A Team Rocket outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:tnt",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "team_rocket_incineroar_shiny": {
+      "displayName": "Shiny Team Rocket Incineroar",
+      "description": "A Team Rocket outfit for shiny Incineroar.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:tnt",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "team_rainbow_rocket_incineroar_shiny": {
+      "displayName": "Shiny Rainbow Rocket Incineroar",
+      "description": "A Rainbow Rocket outfit for shiny Incineroar.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:ender_pearl",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "team_rocket_anime_incineroar": {
+      "displayName": "Anime Team Rocket Incineroar",
+      "description": "An anime Team Rocket outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:black_banner",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "team_rocket_anime_incineroar_shiny": {
+      "displayName": "Shiny Anime Team Rocket Incineroar",
+      "description": "An anime Team Rocket outfit for shiny Incineroar.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:black_banner",
+            "count": 2
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "team_skull_incineroar": {
+      "displayName": "Team Skull Incineroar",
+      "description": "A Team Skull outfit for Incineroar.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:skeleton_skull",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "team_skull_incineroar_shiny": {
+      "displayName": "Shiny Team Skull Incineroar",
+      "description": "A Team Skull outfit for shiny Incineroar.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:skeleton_skull",
+            "count": 2
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "skin-riolu_pmd": {
+      "displayName": "PMD Riolu",
+      "description": "A Mystery Dungeon style for Riolu.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:blue_wool",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "skin-riolu_psmd": {
+      "displayName": "PSMD Riolu",
+      "description": "A Super Mystery Dungeon style for Riolu.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:green_wool",
+            "count": 12
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "skin-lucario_cafe": {
+      "displayName": "Cafe Lucario",
+      "description": "A cafe outfit for Lucario.",
+      "tier": "common",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:cookie",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "skin-lucario_captain": {
+      "displayName": "Captain Lucario",
+      "description": "A captain outfit for Lucario.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:spyglass",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "skin-lucario_chef": {
+      "displayName": "Chef Lucario",
+      "description": "A chef outfit for Lucario.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:cake",
+            "count": 1
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "skin-lucario_concert": {
+      "displayName": "Concert Lucario",
+      "description": "A concert outfit for Lucario.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:note_block",
+            "count": 12
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "skin-lucario_holiday": {
+      "displayName": "Holiday Lucario",
+      "description": "A festive holiday outfit for Lucario.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:snow_block",
+            "count": 8
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "skin-lucario_martialarts": {
+      "displayName": "Martial Arts Lucario",
+      "description": "A martial arts outfit for Lucario.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:iron_ingot",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "skin-lucario_party": {
+      "displayName": "Costume Party Lucario",
+      "description": "A costume party outfit for Lucario.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:purple_wool",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "skin-lucario_pmd": {
+      "displayName": "PMD Lucario",
+      "description": "A Mystery Dungeon style for Lucario.",
+      "tier": "uncommon",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:blue_wool",
+            "count": 16
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "skin-lucario_psmd": {
+      "displayName": "PSMD Lucario",
+      "description": "A Super Mystery Dungeon style for Lucario.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:green_wool",
+            "count": 24
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "skin-lucario_ruins": {
+      "displayName": "Ruins Lucario",
+      "description": "An ancient ruins style for Lucario.",
+      "tier": "rare",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:chiseled_stone_bricks",
+            "count": 24
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    },
+    "skin-lucario_space": {
+      "displayName": "Space Lucario",
+      "description": "A space suit for Lucario.",
+      "tier": "epic",
+      "quest": {
+        "itemCosts": [
+          {
+            "item": "minecraft:firework_rocket",
+            "count": 32
+          }
+        ],
+        "scores": [],
+        "economyCosts": [],
+        "tags": [],
+        "teams": []
+      }
+    }
+  }
+}

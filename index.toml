@@ -41,8 +41,16 @@ file = "config/CobbleSpawnAlertReforged/webhooks.json"
 hash = "b3c87441730590a189d65cee5b73f2cdc105f6f89b5ac1576659cd66fa573a26"
 
 [[files]]
+file = "config/CobblemonCustomizables-2.0.0.jar"
+hash = "b2403a224ea825af0de03a72783bd875c68c2e751598bad05f081224f741d78d"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "3e7267e06b9c0c50e48c18b8ff478c0d287da61d4efe8a9156e3eee9766d69cd"
+
+[[files]]
+file = "config/GooeyLibs-Fabric-3.1.1-1.21.x.jar"
+hash = "9f366646f56eda13040dd85ee4a22347f9eb44a877075b4f0776198e1131eb10"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -62,7 +70,7 @@ hash = "5eff6162478691b82242f3574b7f2f5f008406c2ad330fdf4750860044d9f076"
 
 [[files]]
 file = "config/accessories.json5"
-hash = "fd46888e6b9fe618942368b167ba68ef40074063b3403bc31722623bf6b3488f"
+hash = "9ca14293603e6665aaa4605ec208e63f5ea139340495f8e793aa04cad8417df8"
 
 [[files]]
 file = "config/accessories_compat.json5"
@@ -183,6 +191,78 @@ hash = "96a5b9cd10fc488c5a214e1c1b3b97c4c2371d5091f8346a2104e28f038e6e84"
 [[files]]
 file = "config/cobblemon/starters.json"
 hash = "02eb3b08840568488f3f8f82a8de947e337f03688eb98cebf49593278dc01a93"
+
+[[files]]
+file = "config/cobblemon_customizables/hidden_skins.json"
+hash = "c21974ecfc874f061ce4f69f481cb789f096cde77d982cf4d75995963f79271c"
+
+[[files]]
+file = "config/cobblemon_customizables/loaded_skin_packs/remote_26bb5385a578_DiejouSkinsPack.zip"
+hash = "c7f1c319b2fee40017658c957c3a0f55f2b2e247b28dab143068db9daaa32451"
+
+[[files]]
+file = "config/cobblemon_customizables/loaded_skin_packs/remote_438f6fa2ad35_CobbleSkins.zip"
+hash = "317c1988b2699a584e8e6c32c8f989a3d6d9cc15fb723b73992b8b037d8d1771"
+
+[[files]]
+file = "config/cobblemon_customizables/loaded_skin_packs/remote_4e5d2f0709f6_FireFitsforFireCats.v.12.zip"
+hash = "db7595fb4434268f81ed4f419f425803034b0e550e1cd524de1b8f7b0e7007b1"
+
+[[files]]
+file = "config/cobblemon_customizables/loaded_skin_packs/remote_5da8b6ce2fd0_CobbleCafe _1.7_.zip"
+hash = "89e36d17ac3fce004ba3f166e484b37869d984c2ea14c79e479da36e0f9a756f"
+
+[[files]]
+file = "config/cobblemon_customizables/loaded_skin_packs/remote_853643feadaa_Lucario_Overhaul_v1.2.2.zip"
+hash = "e337475e16c5c4c4d3e15f7d159f99ca9680cca7bccb613b68613e474a05aeb2"
+
+[[files]]
+file = "config/cobblemon_customizables/loaded_skin_packs/remote_fcc32e8e3929_Failskins 9.1.zip"
+hash = "918acfa25e802b21318ced7e1d1a50221e84ac69b917f1492b4ea178f18f7d10"
+
+[[files]]
+file = "config/cobblemon_customizables/permissions.json"
+hash = "507f17b9c505964153c27a03620752a5d5130690786f96ac800d6cf7721c232e"
+
+[[files]]
+file = "config/cobblemon_customizables/remote_skin_packs/CobbleCafe _1.7_.zip"
+hash = "5da8b6ce2fd0ceef976ed86a1934914c3d73759b30dcff9ecf173edf1281716e"
+
+[[files]]
+file = "config/cobblemon_customizables/remote_skin_packs/CobbleSkins.zip"
+hash = "438f6fa2ad35ed9e73215fbc082f6f1d7c5b49a3412161fb3d6dd8ce005382cc"
+
+[[files]]
+file = "config/cobblemon_customizables/remote_skin_packs/DiejouSkinsPack.zip"
+hash = "26bb5385a5782ad9501e2bb3064a2da2934b3cdbb58a75f4bb669d6e84283f30"
+
+[[files]]
+file = "config/cobblemon_customizables/remote_skin_packs/Failskins 9.1.zip"
+hash = "fcc32e8e3929bc3b650dfed257795bdcfb824420739d666e5a7f891b79869978"
+
+[[files]]
+file = "config/cobblemon_customizables/remote_skin_packs/FireFitsforFireCats.v.12.zip"
+hash = "4e5d2f0709f63325d2830520a421fff3c01c194691f1e0436ab95704ec0492f8"
+
+[[files]]
+file = "config/cobblemon_customizables/remote_skin_packs/Lucario_Overhaul_v1.2.2.zip"
+hash = "853643feadaa3666d4278b9e636568c502d122b01c071c9a4b21fc2a69ce14cd"
+
+[[files]]
+file = "config/cobblemon_customizables/skin_metadata.json"
+hash = "012ecc7177de9524c07c68dcd72c0536a7ae95cd0dee9996b07647f0399d8fe9"
+
+[[files]]
+file = "config/cobblemon_customizables/skins/README.txt"
+hash = "827e5fae3cfc4e7644509de6112bf93337ceb1edb973ec33da5763bee7aad41a"
+
+[[files]]
+file = "config/cobblemon_customizables/unlock_rules.json"
+hash = "1b207b60efc251379669c9a8f0cf75ac419d5f83ff99ce14a44efdbcf45e7cd3"
+
+[[files]]
+file = "config/cobblemon_customizables/unlocked_skins.json"
+hash = "ea89629823a544c30c48b07d9705524d333bd7e1325bf71db193bfd666400bc4"
 
 [[files]]
 file = "config/cobblemonalphas/config.json"
@@ -881,6 +961,10 @@ file = "config/sound_physics_remastered/soundphysics.properties"
 hash = "d29dede3f214ee4b1aa03314f92c3f973c21ee6e26d173eba3d01a2083237b6d"
 
 [[files]]
+file = "config/special-model-loader-mc1.21.1-1.3.0.jar"
+hash = "a9792b6841dcd5f408303bf0889bf915ac190855d0283bd9909f283621a8796c"
+
+[[files]]
 file = "config/stackdeobf.json"
 hash = "ab7ea0a22b66e8d4b6eebbeace63fa71dfc830afaa0649c89a62c18df65a8808"
 
@@ -1496,10 +1580,6 @@ file = "mods/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar"
 hash = "b42fc0424050f076c8e1f77b7549e48ec6e07605fbf868ed5d0ef47848665dd2"
 
 [[files]]
-file = "mods/replaymod-1.21-2.6.19.jar"
-hash = "35419bb6edaa9c8d49982cc8be54c4e58f7979323551013a0eaa44d2cacde193"
-
-[[files]]
 file = "mods/repurposed_structures-7.5.18+1.21.1-fabric.jar"
 hash = "1db2c94518e5f8dc088cd0d190a16bc4cee9b43510b6c17d5b8f8d27eb91a80d"
 
@@ -1628,6 +1708,10 @@ file = "resourcepacks/Cobblemon 3D Poké Rods 1.0.zip"
 hash = "c93e9c866658bb752976c44414ca0e04fa90246060f114a183599abe1de4ca9e"
 
 [[files]]
+file = "resourcepacks/Cobblemon Accessories v5 [1.7].zip"
+hash = "3124cc8bd8e2949ee2fba794d2c886294a0af0cec365b7ff009a89d6d670d35d"
+
+[[files]]
 file = "resourcepacks/Cobblemon Classic Grass Pack v1.0 MC1.21.1.zip"
 hash = "82682159ca0132b3fe0f2b24d37324bac1bbd40e2f0c08b592af9073b0df8c92"
 
@@ -1652,6 +1736,10 @@ file = "resourcepacks/Cobblemon Interface v1.6.0.zip.rpo"
 hash = "cd23a448bda028590c96b9b2b7ecfb4f0456d6aad02b934283ffe47d4d88046f"
 
 [[files]]
+file = "resourcepacks/CobblemonFossilHybrids!.zip"
+hash = "d29ce70e9a9eb5d18e36ad9ea23a0042176692e2ddb403dc20a2c324cd236729"
+
+[[files]]
 file = "resourcepacks/CobblemonMoreCosmetics Recipes v1.1.5-1.21.x.zip"
 hash = "953e96785eb8e162af6f705a3970b044294fcf13759f06a40dbee74f76a08d1a"
 
@@ -1674,6 +1762,10 @@ hash = "620f1441af282a9043bc0d062a90662d7e87e28900e8e79212ef90ac751d4dea"
 [[files]]
 file = "resourcepacks/E19 Cobblemon Minimap Icons.zip"
 hash = "8732ecb1ee0b8cceda4ad973ffcf53e0c6689f503652320107d2569c0cd7f9ba"
+
+[[files]]
+file = "resourcepacks/Extra Paradox Mons 1.7.zip"
+hash = "fdc911ccb1b9d9a27a992e6b17016f859799a6bdfbe687221478a5c4aeba2024"
 
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.10.4.zip"
@@ -1702,6 +1794,10 @@ hash = "0dc4a6d107da965c89362a37e1303a4c64bf824f377a880fc14934c664dbddc9"
 [[files]]
 file = "resourcepacks/[Chilli´s] punchy! cobblemon.zip"
 hash = "d79f5856bc843537e46b448998b37307365005b42ff3ff3768f7dae0069c4a4f"
+
+[[files]]
+file = "resourcepacks/fanmade form funfair v1.3.0.zip"
+hash = "f2ec725abf8c71f0c1c6291903b0df3d573341401733b45ed13e44152bec21df"
 
 [[files]]
 file = "resourcepacks/resourcepacks-soundtrack-zip.pw.toml"

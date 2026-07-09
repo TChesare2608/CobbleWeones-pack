@@ -1,0 +1,11 @@
+{
+  "publicSkins": [
+    "skin-dj",
+    "skin-buzzshock"
+  ],
+  "playerSkins": {
+    "Batmite2B": [
+      "skin-ryu"
+    ]
+  }
+}
